@@ -1,2 +1,3 @@
 # GH_001_HelloWorld
-Primer ejemplo de repositorio en Github
+<p>Primer ejemplo de repositorio en Github</p>
+este proyecto sirve para practicar las bases de GIT
